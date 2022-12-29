@@ -32,7 +32,7 @@ article {
 }
 
 .post-header {
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
     /*position: relative;*/
 }
 
@@ -244,7 +244,7 @@ footer {
 /*flexbox*/
 
 
- /* .main-header {
+ .main-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -283,7 +283,7 @@ footer {
     font-style: italic;
  }
 
-
+/*
  .container {
     display: flex;
     align-items: flex-start;
